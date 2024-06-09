@@ -1,2 +1,1 @@
-# project01
-...
+Eu sou um progamador iniciante
